@@ -1,0 +1,30 @@
+.dndflow {
+    flex-direction: row;
+    display: flex;
+    justify-content:space-between;
+    flex-grow: 1;
+    /* height: 100%; */
+  }
+
+
+  .dndnode {
+    border: 2px solid #1a192b;
+    cursor: grab;    
+  }
+  
+  .dndnode.input {
+    border-color: #0041d0;
+  }
+  
+  
+  .dndnode.output {
+    border-color: #ff0072;
+  }
+  
+  .reactflow-wrapper {
+    flex-grow: 1;
+    /* height: 150%;
+    style={{ height: full }} */
+    min-height: 100%;
+  }
+  
