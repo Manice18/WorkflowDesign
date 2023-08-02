@@ -1,8 +1,12 @@
-# React + Vite
+# Workflow Designer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Build With : Vite+React
+</br>
+TechStack Used: React, tailwindcss, react-flow
 
-Currently, two official plugins are available:
+## Working Video:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://github.com/Manice18/WorkflowDesign/assets/91601706/3a0e2e99-05a0-4073-8936-3a2d1582eb29
+
